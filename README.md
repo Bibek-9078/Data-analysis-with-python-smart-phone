@@ -20,15 +20,16 @@ This repository contains the code and notebooks for analyzing the Smart phone  L
 
 | Command | Description |
 | --- | --- |
-| `brand_name` | Brand name of smartphone (eg. oneplus, samsung, motorola, categorical) |
-| `model`      | Model name of smartphone (eg. OnePlus 11 5G, Samsung Galaxy A14 5G, neither numerical nor categorical) |
-| `price`      | Price of smartphone (eg. 30000, numeric)|
-| `rating`     | Rating of each smartphone given by consumer (eg. 89, 67, numerical ) |
-| `brand_name` | Brand name of smartphone (eg. oneplus, samsung, motorola, categorical) |
-| `model`      | Model name of smartphone (eg. OnePlus 11 5G, Samsung Galaxy A14 5G, neither numerical nor categorical) |
-| `price`      | Price of smartphone (eg. 30000, numeric)|
-| `rating`     | Rating of each smartphone given by consumer (eg. 89, 67, numerical ) |
-                  
+| **`brand_name`**                      | *Brand name of smartphone (eg. oneplus, samsung, motorola, categorical)* |
+| **`model`**                           | Model name of smartphone (eg. OnePlus 11 5G, Samsung Galaxy A14 5G, neither numerical nor categorical) |
+| **`price`**                           | Price of smartphone (eg. 30000, numeric)|
+| **`rating`**                          | Rating of each smartphone given by consumer (eg. 89, 67, numerical ) |
+| **`has_5g, has_nfc, has_ir_blaster`** | Smartphone conatining information of 5g, nfc and ir_blaster (eg. True, False, categorical )|
+| `processor_brand`                 |  Smartphone with processor_brand name (eg. snapdragon, exynos, categorical ) |
+| `num_cores`                       |Number of cores present in smartphone (eg. 8 = octacore, 6=hexacore, categorical )|
+| `screen_size `                    | Rating of each smartphone given by consumer (eg. 89, 67, numerical ) |
+| `os `                             |  Operating system of smartphone (eg. android, os, categorical ) |
+                                    
          
 
 
