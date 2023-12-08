@@ -1,22 +1,28 @@
-# Data-analysis-with-python-smart-phone
+# Smartphone’s Exploratory Data Analysis Using Python
 This repository contains the code and notebooks for analyzing the Smart phone  Latest Dataset. The dataset provides valuable insights into Smart phone range of mobile devices, including specifications, ratings, prices and many more.
 
 # Objectives
 
-### 1. To find the top brands of smartphones in the market
+### 1. To find the top brands of smartphones in the market.
 
-### 2. To find the price range of trending smartphones
+### 2. To find the price range of trending smartphones.
 
-### 3. To find the ram capacity and internal memory which purchased more
+### 3. To find the ram capacity and internal memory which purchased more.
 
-### 4. To find which processor is most used in the smartphones
+### 4. To find which processor is most used in the smartphones.
 
-### 5. To find the number of cameras (rear and front ) in the smartphones, which is more purchased
+### 5. To find the number of cameras (rear and front ) in the smartphones, which is more purchased.
 
-### 6. To find the market of ios or android
+### 6. To find the market of ios or android.
 
 #### Dataset Overview
          The dataset comprises key columns that shed light on Samsung mobiles' essential attributes, such as:
+
+| Command | Description |
+| --- | --- |
+| `brand_name` | Brand name of smartphone (eg. oneplus, samsung, motorola, categorical) |
+| `git diff`   | Show file differences that **haven't been** staged |
+         
          
 brand_name : Brand name of smartphone (eg. oneplus, samsung, motorola, categorical)
 
