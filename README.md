@@ -26,7 +26,7 @@ On the other hand, BeautifulSoup is a Python library that provides a convenient 
 
 # Feature Description 
 
-| Command | Description |
+| Feature  | Description |
 | --- | --- |
 | **`brand_name`**                      | Brand name of smartphone (eg. oneplus, samsung, motorola, categorical) |
 | **`model`**                           | Model name of smartphone (eg. OnePlus 11 5G, Samsung Galaxy A14 5G, neither numerical nor categorical) |
