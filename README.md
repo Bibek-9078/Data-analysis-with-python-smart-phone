@@ -24,9 +24,7 @@ During the scraping process, a combination of Selenium and BeautifulSoup was uti
 
 On the other hand, BeautifulSoup is a Python library that provides a convenient way to parse and extract data from HTML or XML documents. It simplifies the process of traversing the HTML structure and locating specific elements or tags of interest.
 
-# Feature Description
-
-### write description of each columns and a summary of dataset. 
+# Feature Description 
 
 | Command | Description |
 | --- | --- |
