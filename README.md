@@ -43,11 +43,11 @@ On the other hand, BeautifulSoup is a Python library that provides a convenient 
 
 ### Steps that I followed through out EDA :
 
-01.First of all try to find out type of columns (Is it numerical or categorical)
+**01.**  First of all try to find out type of columns (Is it numerical or categorical)
 
-02.Based on type of columns perform univariate, bivariate and multivariate analysis.
+**02**.Based on type of columns perform univariate, bivariate and multivariate analysis.
 
-03.Considering one columns at a time and performing EDA is called univariate analysis.
+**03**.Considering one columns at a time and performing EDA is called univariate analysis.
 
 04.Considering two columns at a time to perform EDA is called bivariate analysis.
 
