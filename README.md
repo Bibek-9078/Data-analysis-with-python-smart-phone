@@ -1,22 +1,22 @@
 # Data-analysis-with-python-smart-phone
 
-This repository contains the code and notebooks for analyzing the Smart phone  Latest Dataset. The dataset provides valuable insights into Smart phone range of mobile devices, including specifications, ratings, prices and many more.
+*This repository contains the code and notebooks for analyzing the Smart phone  Latest Dataset. The dataset provides valuable insights into Smart phone range of mobile devices, including specifications, ratings, prices and many more.*
 
 ![image](Smartphonereview.png)
 
 # Objectives
 
-### 1. To find the top brands of smartphones in the market.
+**1. To find the top brands of smartphones in the market.**
 
-### 2. To find the price range of trending smartphones.
+**2. To find the price range of trending smartphones.**
 
-### 3. To find the ram capacity and internal memory which purchased more.
+**3. To find the ram capacity and internal memory which purchased more.**
 
-### 4. To find which processor is most used in the smartphones.
+**4. To find which processor is most used in the smartphones.**
 
-### 5. To find the number of cameras (rear and front ) in the smartphones, which is more purchased.
+**5. To find the number of cameras (rear and front ) in the smartphones, which is more purchased.**
 
-### 6. To find the market of ios or android.
+**6. To find the market of ios or android.**
 
 # 1. Data Collection
 
@@ -51,23 +51,23 @@ On the other hand, BeautifulSoup is a Python library that provides a convenient 
 
 **03**.Considering one columns at a time and performing EDA is called univariate analysis.
 
-04.Considering two columns at a time to perform EDA is called bivariate analysis.
+**04**.Considering two columns at a time to perform EDA is called bivariate analysis.
 
-05.Considering more than two columns at a time to perform EDA is called multivariate analysis.
+**05**.Considering more than two columns at a time to perform EDA is called multivariate analysis.
 
-06.During bivariate analysis combination of columns may be (Numerical- Numerical, Numerical- Categorical, Categorical-Categorical)
+**06**. During bivariate analysis combination of columns may be (Numerical- Numerical, Numerical- Categorical, Categorical-Categorical)
 
-07.During univariate analysis (numerical columns ) try to find out 5 number summary of basic statistics i.e mean, median, min, max, std, 1st quartile(25% data), 3rd quartile(75% data), range.
+**07**.During univariate analysis (numerical columns ) try to find out 5 number summary of basic statistics i.e mean, median, min, max, std, 1st quartile(25% data), 3rd quartile(75% data), range.
 
-08.During univariate analysis if column is numerical then generally we plot (Histogram, KDE, Boxplot) to understand distribution and finding outliers present in dataset using boxplot.
+**08**.During univariate analysis if column is numerical then generally we plot (Histogram, KDE, Boxplot) to understand distribution and finding outliers present in dataset using boxplot.
 
-09.During univariate analysis if column is categorical then generally we plot (Barplot, Pieplot) to understand distribution of data and finding out pattern.
+**09**.During univariate analysis if column is categorical then generally we plot (Barplot, Pieplot) to understand distribution of data and finding out pattern.
 
-10.During bivariate analysis if columns combination is (Numerical-Numerical ) then generally we plot (scatter plot) where we can see data distribution along with correlation between two features/columns.
+**10**.During bivariate analysis if columns combination is (Numerical-Numerical ) then generally we plot (scatter plot) where we can see data distribution along with correlation between two features/columns.
 
-11.During bivariate analysis if columns combination is (Numerical-Categorical) then we plot ( Bar plot) considering categorical columns on x-axis while numerical columns on y-axis, which help in analysis.
+**11**.During bivariate analysis if columns combination is (Numerical-Categorical) then we plot ( Bar plot) considering categorical columns on x-axis while numerical columns on y-axis, which help in analysis.
 
-12.During bivariate analysis if columns combination is (Categorical-Categorical) then we generally plot (heatmap) and analyze by crosstab to understand data.
+**12**.During bivariate analysis if columns combination is (Categorical-Categorical) then we generally plot (heatmap) and analyze by crosstab to understand data.
 
 # Conclusion
 I did exploratory data analysis of smartphone’s data in which I have found that top brands phone, top processor brands what ram capacity is more purchased in dataset. Price of smartphones varies with different features eg. os, camera, ram, internal memory, 5G, NFC and other features.
