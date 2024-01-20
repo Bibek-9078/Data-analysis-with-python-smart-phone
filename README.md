@@ -2,7 +2,7 @@
 
 This repository contains the code and notebooks for analyzing the Smart phone  Latest Dataset. The dataset provides valuable insights into Smart phone range of mobile devices, including specifications, ratings, prices and many more.
 
-![image](SmartphoneReview.png)
+![image](Smartphonereview.png)
 
 # Objectives
 
